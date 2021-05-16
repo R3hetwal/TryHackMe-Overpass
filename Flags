@@ -1,5 +1,5 @@
 Hack the machine and get the flag in user.txt
-Hint: OWASP Top 10 Vuln! Do NOT bruteforce.
+
 
 Using dirsearch or gobutser, we discover a hidden /admin directory on the web server:
 
